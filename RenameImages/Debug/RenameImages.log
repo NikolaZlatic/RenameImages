@@ -1,0 +1,11 @@
+﻿  RenameImages.cpp
+c:\users\zlatic\source\repos\renameimages\renameimages\renameimages.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\zlatic\source\repos\renameimages\renameimages\renameimages.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\zlatic\source\repos\renameimages\renameimages\renameimages.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\zlatic\source\repos\renameimages\renameimages\renameimages.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\zlatic\source\repos\renameimages\renameimages\renameimages.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\zlatic\source\repos\renameimages\renameimages\renameimages.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\zlatic\source\repos\renameimages\renameimages\renameimages.cpp(93): error C2660: 'strcpy_s': function does not take 2 arguments
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(28): note: see declaration of 'strcpy_s'
+c:\users\zlatic\source\repos\renameimages\renameimages\renameimages.cpp(95): error C2660: 'strcpy_s': function does not take 2 arguments
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(28): note: see declaration of 'strcpy_s'
